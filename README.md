@@ -1,5 +1,7 @@
 # FLASK
 Learning flask 
+All my credits gies to Mr.CoreyMSchafer from his youtube videos i have learned this 
+much need to explore more and start applying in future
 
 in this repo am learning python Flask-library 
 from basics upto deployment part
